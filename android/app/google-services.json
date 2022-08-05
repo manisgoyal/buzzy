@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145982551528",
+    "project_id": "buzzy-siam",
+    "storage_bucket": "buzzy-siam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145982551528:android:e2f9d7557cce7fdddba05d",
+        "android_client_info": {
+          "package_name": "com.example.buzzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145982551528-ou7d9eec9u02iha4s1ckapfdpf28jl04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYnHjHvQH0b5996EgikkcNT78zcF2YJF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145982551528-ou7d9eec9u02iha4s1ckapfdpf28jl04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
