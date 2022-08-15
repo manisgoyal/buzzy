@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "145982551528",
+    "firebase_url": "https://buzzy-siam-default-rtdb.firebaseio.com",
     "project_id": "buzzy-siam",
     "storage_bucket": "buzzy-siam.appspot.com"
   },
@@ -29,6 +30,13 @@
             {
               "client_id": "145982551528-ou7d9eec9u02iha4s1ckapfdpf28jl04.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "145982551528-l14fumeg12m1vnbuirkndu4uj1eafs2c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buzzy"
+              }
             }
           ]
         }
